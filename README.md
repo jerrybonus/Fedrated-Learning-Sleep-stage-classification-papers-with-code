@@ -1,4 +1,4 @@
-# 关于联邦学习、睡眠分期的一些公开代码的论文及code<br>
+# 关于联邦学习、睡眠分期的一些公开代码的论文<br>
 Sleep Health Research Group@DUT<br>
 
 联邦学习(Fedrated Learning)
